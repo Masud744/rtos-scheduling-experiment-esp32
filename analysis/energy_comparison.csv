@@ -1,0 +1,4 @@
+Algorithm,CPU_Idle_%,Estimated_Energy
+Priority,98.35888105,"Low"
+RoundRobin,97.7210429,"Low"
+EDF,98.34404499,"Low"
